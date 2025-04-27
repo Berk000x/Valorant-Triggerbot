@@ -1,5 +1,5 @@
 # 🌐 ASM Triggerbot
-This is a simple Valorant triggerbot written in masm x86 assembly. I tried to keep the code as minimal and clean as possible. Anyone interested in ASM can comfortably use this as a starting source. The total reaction time of the triggerbot is about 13 ms.
+This is a simple Valorant color triggerbot written in masm x86 assembly. I tried to keep the code as minimal and clean as possible. Anyone interested in ASM can comfortably use this as a starting source. The total reaction time of the triggerbot is about 13 ms.
 
 
 ![Showcase](showcase/image1.png)
