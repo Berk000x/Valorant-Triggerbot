@@ -5,7 +5,7 @@ This is a simple Valorant color triggerbot written in masm x86 assembly. I tried
 ![Showcase](showcase/image1.png)
 
 ## 🌳 Simple Use:
-1. Download the cheat from the UC thread bellow.
+1. Download the cheat from the [UC thread](https://www.unknowncheats.me/forum/valorant/698448-fast-simple-triggerbot-asm.html).
 2. Unzip the file and open main.exe.
 3. Turn RawInputBuffer off in Valorant's general settings.
 4. Set your game to Windowed Fullscreen.
@@ -13,6 +13,3 @@ This is a simple Valorant color triggerbot written in masm x86 assembly. I tried
 
 ## 💻 Developer Instructions:
 1. Open the .sln file and build the project in x86 - Debug mode using Visual Studio 2022
-
-### 🔗 UC thread
-> https://www.unknowncheats.me/forum/valorant/698448-fast-simple-triggerbot-asm.html
