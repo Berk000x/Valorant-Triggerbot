@@ -14,5 +14,5 @@ This is a simple Valorant color triggerbot written in masm x86 assembly. I tried
 ## 💻 Developer Instructions:
 1. Open the .sln file and build the project in x86 - Debug mode using Visual Studio 2022
 
-> UC thread
+### 🔗 UC thread
 > https://www.unknowncheats.me/forum/valorant/698448-fast-simple-triggerbot-asm.html
