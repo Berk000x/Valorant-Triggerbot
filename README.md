@@ -11,11 +11,8 @@ This is a simple Valorant color triggerbot written in masm x86 assembly. I tried
 4. Set your game to Windowed Fullscreen.
 5. Ensure enemy color matches Valorant's (Default color is purple).
 
----
-
 ## 💻 Developer Instructions:
 1. Open the .sln file and build the project in x86 - Debug mode using Visual Studio 2022
 
----
-**UC thread:** 
-https://www.unknowncheats.me/forum/valorant/698448-fast-simple-triggerbot-asm.html
+> UC thread
+> https://www.unknowncheats.me/forum/valorant/698448-fast-simple-triggerbot-asm.html
