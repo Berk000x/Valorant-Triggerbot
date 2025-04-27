@@ -8,7 +8,8 @@ This is a simple Valorant color triggerbot written in masm x86 assembly. I tried
 1. Download the cheat from the UC thread bellow.
 2. Unzip the file and open main.exe.
 3. Turn RawInputBuffer off in Valorant's general settings.
-4. Ensure enemy color matches Valorant's (Default color is purple).
+4. Set your game to Windowed Fullscreen.
+5. Ensure enemy color matches Valorant's (Default color is purple).
 
 ## 💻 Developer Instructions:
 **Build the program using Visual Studio 2022:**
