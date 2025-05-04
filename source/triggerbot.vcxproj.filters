@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="helper.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="main.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="helper.inc">
+      <Filter>Include Files</Filter>
+    </None>
+    <None Include="win.inc">
+      <Filter>Include Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06bd7313-2337-45bd-aac2-9f9213f65484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include Files">
+      <UniqueIdentifier>{c413dcc5-e75d-4710-b377-438d5c3a1f46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
