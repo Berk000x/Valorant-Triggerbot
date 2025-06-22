@@ -1,0 +1,10 @@
+[settings]
+hold_key=164
+tap_time=150
+scan_area=7
+
+[ColorRGB]
+Color_sens=55
+red=250
+green=100
+blue=250
